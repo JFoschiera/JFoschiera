@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JFoschiera
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaCript
+- 📫 julifoschiera@gmail.com
