@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JFoschiera
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning 
--     JavaCript
+-     JavaScript
 -     HTML
 -     CSS
 -     SQL
